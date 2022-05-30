@@ -1,0 +1,57 @@
+*{ 
+    background-color: #D97325;
+    font-family: Arial, sans-serif;
+    color: #FFFFFF;
+    padding: 20;
+    margin: 10;
+    box-sizing: border-box;
+    max-width: 883px;
+  }
+   
+  .titulo__principal {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+
+  .imagem { 
+    text-align: center;
+  }
+  
+  .autora {
+  top: 617px;
+  left: 21px;
+  width: 884px;
+  height: 28px;
+  text-align: right;
+  font: normal normal bold 21px/34px sans-serif;
+  letter-spacing: 0px;
+  opacity: 1;
+  }
+
+  .sao {
+   font-size: 23px;
+  }
+
+  .link {
+    font-size: 20px;  
+  }
+
+  .ingredientes {
+    left: 96px;
+    font-size: 21px;
+      }
+
+  .preparacao {
+    left: 96px;
+    font-size: 21px;
+      }
+
+   .final {
+    font-size: 23px;
+    text-align: center;
+   }
+
+  
